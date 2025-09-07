@@ -1,0 +1,106 @@
+Actor,ActorID,Film,Year,Votes,Rating,FilmID
+Fred Astaire,nm0000001,Ghost Story,1981,7731,6.3,tt0082449
+Fred Astaire,nm0000001,The Purple Taxi,1977,533,6.6,tt0076851
+Fred Astaire,nm0000001,The Amazing Dobermans,1976,369,5.3,tt0074130
+Fred Astaire,nm0000001,The Towering Inferno,1974,39888,7,tt0072308
+Fred Astaire,nm0000001,Midas Run,1969,123,4.8,tt0064664
+Fred Astaire,nm0000001,Finian's Rainbow,1968,3377,6.2,tt0062974
+Fred Astaire,nm0000001,The Notorious Landlady,1962,1887,6.8,tt0056289
+Lauren Bacall,nm0000002,Ernest & Celestine,2012,18793,7.9,tt1816518
+Lauren Bacall,nm0000002,The Forger,2012,4472,5.4,tt1368858
+Lauren Bacall,nm0000002,All at Sea,2010,110,5.7,tt0858500
+Lauren Bacall,nm0000002,The Walker,2007,5256,5.8,tt0783608
+Lauren Bacall,nm0000002,Manderlay,2005,22622,7.3,tt0342735
+Lauren Bacall,nm0000002,These Foolish Things,2005,358,5.6,tt0439848
+Lauren Bacall,nm0000002,Howl's Moving Castle,2004,340480,8.2,tt0347149
+Brigitte Bardot,nm0000003,Don Juan (Or If Don Juan Were a Woman),1973,894,5.1,tt0069990
+Brigitte Bardot,nm0000003,The Edifying and Joyous Story of Colinot,1973,122,4.3,tt0069899
+Brigitte Bardot,nm0000003,Frenchie King,1971,1054,5.3,tt0067637
+Brigitte Bardot,nm0000003,Rum Runners,1971,469,5.6,tt0066857
+Brigitte Bardot,nm0000003,The Bear and the Doll,1970,431,6.4,tt0064779
+Brigitte Bardot,nm0000003,Les novices,1970,219,5.1,tt0066164
+Brigitte Bardot,nm0000003,Les femmes,1969,351,5.5,tt0064324
+John Belushi,nm0000004,Neighbors,1981,7496,5.6,tt0082801
+John Belushi,nm0000004,Continental Divide,1981,4659,6.2,tt0082200
+John Belushi,nm0000004,The Blues Brothers,1980,184905,7.9,tt0080455
+John Belushi,nm0000004,1941,1979,31580,5.8,tt0078723
+John Belushi,nm0000004,Old Boyfriends,1979,345,5.7,tt0079660
+John Belushi,nm0000004,Animal House,1978,112771,7.5,tt0077975
+John Belushi,nm0000004,Goin' South,1978,6650,6.2,tt0077621
+Ingmar Bergman,nm0000005,Cries & Whispers,1972,30691,8.1,tt0069467
+Ingmar Bergman,nm0000005,The Passion of Anna,1969,8665,7.7,tt0064793
+Ingmar Bergman,nm0000005,Dreams,1955,2694,7.1,tt0048272
+Ingmar Bergman,nm0000005,A Lesson in Love,1954,2969,7,tt0047167
+Ingmar Bergman,nm0000005,Waiting Women,1952,2279,7,tt0044811
+Ingmar Bergman,nm0000005,To Joy,1950,2554,7.2,tt0043048
+Ingmar Bergman,nm0000005,Thirst,1949,2184,6.6,tt0041998
+Ingrid Bergman,nm0000006,Autumn Sonata,1978,28001,8.2,tt0077711
+Ingrid Bergman,nm0000006,A Matter of Time,1976,550,5.2,tt0074878
+Ingrid Bergman,nm0000006,Murder on the Orient Express,1974,56620,7.3,tt0071877
+Ingrid Bergman,nm0000006,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,1973,477,6.3,tt0070079
+Ingrid Bergman,nm0000006,A Walk in the Spring Rain,1970,696,6.2,tt0066542
+Ingrid Bergman,nm0000006,Cactus Flower,1969,9777,7.2,tt0064117
+Ingrid Bergman,nm0000006,Stimulantia,1967,199,5.7,tt0062306
+Humphrey Bogart,nm0000007,The Harder They Fall,1956,7216,7.5,tt0049291
+Humphrey Bogart,nm0000007,The Desperate Hours,1955,8898,7.5,tt0047985
+Humphrey Bogart,nm0000007,We're No Angels,1955,8504,7.5,tt0048801
+Humphrey Bogart,nm0000007,The Left Hand of God,1955,2356,6.5,tt0048291
+Humphrey Bogart,nm0000007,Sabrina,1954,60019,7.7,tt0047437
+Humphrey Bogart,nm0000007,The Caine Mutiny,1954,24578,7.7,tt0046816
+Humphrey Bogart,nm0000007,The Barefoot Contessa,1954,9913,7,tt0046754
+Marlon Brando,nm0000008,The Score,2001,122320,6.8,tt0227445
+Marlon Brando,nm0000008,Free Money,1998,2786,5.1,tt0120678
+Marlon Brando,nm0000008,The Brave,1997,9458,6.3,tt0118768
+Marlon Brando,nm0000008,The Island of Dr. Moreau,1996,31308,4.6,tt0116654
+Marlon Brando,nm0000008,Don Juan DeMarco,1994,48537,6.7,tt0112883
+Marlon Brando,nm0000008,Christopher Columbus: The Discovery,1992,2785,4.5,tt0103962
+Marlon Brando,nm0000008,The Freshman,1990,18918,6.4,tt0099615
+Richard Burton,nm0000009,1984,1984,67222,7.1,tt0087803
+Richard Burton,nm0000009,Lovespell,1981,157,5.4,tt0079492
+Richard Burton,nm0000009,Circle of Two,1980,521,5.8,tt0080536
+Richard Burton,nm0000009,Breakthrough,1979,1083,5.1,tt0078320
+Richard Burton,nm0000009,The Wild Geese,1978,11722,6.8,tt0078492
+Richard Burton,nm0000009,California Suite,1978,6730,6.2,tt0077289
+Richard Burton,nm0000009,The Medusa Touch,1978,5937,7,tt0077921
+James Cagney,nm0000010,Ragtime,1981,8854,7.3,tt0082970
+James Cagney,nm0000010,Arizona Bushwhackers,1968,261,5,tt0062676
+James Cagney,nm0000010,"One, Two, Three",1961,19690,7.9,tt0055256
+James Cagney,nm0000010,The Gallant Hours,1960,1419,7.1,tt0053849
+James Cagney,nm0000010,Shake Hands with the Devil,1959,1149,7,tt0053272
+James Cagney,nm0000010,Never Steal Anything Small,1959,277,6.1,tt0053109
+James Cagney,nm0000010,Man of a Thousand Faces,1957,2424,7.2,tt0050681
+Gary Cooper,nm0000011,The Naked Edge,1961,1069,6.7,tt0055214
+Gary Cooper,nm0000011,The Hanging Tree,1959,3721,7.1,tt0052876
+Gary Cooper,nm0000011,The Wreck of the Mary Deare,1959,2327,6.8,tt0053455
+Gary Cooper,nm0000011,They Came to Cordura,1959,1930,6.4,tt0053351
+Gary Cooper,nm0000011,Alias Jesse James,1959,1232,6.5,tt0052545
+Gary Cooper,nm0000011,Man of the West,1958,7052,7.1,tt0051899
+Gary Cooper,nm0000011,Ten North Frederick,1958,624,6.8,tt0052283
+Bette Davis,nm0000012,Wicked Stepmother,1989,1680,4.3,tt0098649
+Bette Davis,nm0000012,The Whales of August,1987,4313,7.3,tt0094315
+Bette Davis,nm0000012,The Watcher in the Woods,1980,5636,6.3,tt0081738
+Bette Davis,nm0000012,Death on the Nile,1978,29141,7.3,tt0077413
+Bette Davis,nm0000012,Return from Witch Mountain,1978,4583,5.9,tt0078158
+Bette Davis,nm0000012,Burnt Offerings,1976,9890,6.5,tt0074258
+Bette Davis,nm0000012,The Scopone Game,1972,2067,7.7,tt0069235
+Doris Day,nm0000013,With Six You Get Eggroll,1968,2502,6.5,tt0063821
+Doris Day,nm0000013,Where Were You When the Lights Went Out?,1968,807,6,tt0063801
+Doris Day,nm0000013,Caprice,1967,1227,5.6,tt0061447
+Doris Day,nm0000013,The Ballad of Josie,1967,860,5.8,tt0061380
+Doris Day,nm0000013,The Glass Bottom Boat,1966,4342,6.5,tt0060463
+Doris Day,nm0000013,Do Not Disturb,1965,1510,6,tt0059112
+Doris Day,nm0000013,Send Me No Flowers,1964,6127,7,tt0058571
+Olivia de Havilland,nm0000014,The Fifth Musketeer,1979,657,5.3,tt0079152
+Olivia de Havilland,nm0000014,The Swarm,1978,7002,4.5,tt0078350
+Olivia de Havilland,nm0000014,Airport '77,1977,9769,5.8,tt0075648
+Olivia de Havilland,nm0000014,Pope Joan,1972,328,5.5,tt0069110
+Olivia de Havilland,nm0000014,The Adventurers,1970,656,5.5,tt0065374
+Olivia de Havilland,nm0000014,"Hush...Hush, Sweet Charlotte",1964,13047,7.6,tt0058213
+Olivia de Havilland,nm0000014,Lady in a Cage,1964,3003,6.8,tt0058283
+James Dean,nm0000015,Giant,1956,34495,7.6,tt0049261
+James Dean,nm0000015,Rebel Without a Cause,1955,84276,7.7,tt0048545
+James Dean,nm0000015,East of Eden,1955,40849,7.9,tt0048028
+James Dean,nm0000015,Trouble Along the Way,1953,1670,6.8,tt0046463
+James Dean,nm0000015,Has Anybody Seen My Gal,1952,1336,7.1,tt0043873
+James Dean,nm0000015,Sailor Beware,1952,1118,6.4,tt0043989
+James Dean,nm0000015,Fixed Bayonets!,1951,1730,6.9,tt0043540
